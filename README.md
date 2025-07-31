@@ -1,8 +1,10 @@
-![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d) ![ed6bcb1ca7589d6ddfff877e93bc7adc](https://github.com/user-attachments/assets/7288f531-7515-44ab-8e01-4ad342d6d618)
+![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d) 
 
 # ClydeAI
 
 ClydeAI general-purpose [Claude Code](https://claude.ai/code) action for GitHub PRs and issues that can answer questions and implement code changes. This action listens for a trigger phrase in comments and activates Claude act on the request. It supports multiple authentication methods including Anthropic direct API, Amazon Bedrock, and Google Vertex AI.
+
+![ed6bcb1ca7589d6ddfff877e93bc7adc](https://github.com/user-attachments/assets/a7996fa1-d579-4725-a570-99ca7b44b18d)
 
 ## Features
 
