@@ -113,7 +113,7 @@ If you prefer not to install the official Claude app, you can create your own Gi
 - The custom app must have read/write permissions for Issues, Pull Requests, and Contents
 - Your app's token will have the exact permissions you configured, nothing more
 
-For more information on creating GitHub Apps, see the [GitHub documentation](https://docs.github.com/en/apps/creating-github-apps).
+For more information on creating GitHub Apps, see the [GitHub documentation](https://docs.github.com/ClydeAI).
 
 ## 📚 FAQ
 
@@ -139,7 +139,7 @@ jobs:
   claude-response:
     runs-on: ubuntu-latest
     steps:
-      - uses: anthropics/claude-code-action@beta
+      - uses: anthropics/ClydeAI@beta
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           # Or use OAuth token instead:
