@@ -1,5 +1,4 @@
-![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d)
-![ed6bcb1ca7589d6ddfff877e93bc7adc](https://github.com/user-attachments/assets/7288f531-7515-44ab-8e01-4ad342d6d618)
+![Claude Code Action responding to a comment](https://github.com/user-attachments/assets/1d60c2e9-82ed-4ee5-b749-f9e021c85f4d) ![ed6bcb1ca7589d6ddfff877e93bc7adc](https://github.com/user-attachments/assets/7288f531-7515-44ab-8e01-4ad342d6d618)
 
 # ClydeAI
 
